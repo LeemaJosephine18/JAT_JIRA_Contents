@@ -1,4 +1,4 @@
-# JIRA Login AND Create project
+# JIRA Login
 
 JIRA is a centralized software in which all the projects are logged into a central database and goes through the workflows. Workflow controls the status of the project.
 
@@ -38,23 +38,3 @@ https://www.atlassian.com/software/jira
 
 <img src="https://github.com/LeemaJosephine18/JiraContent/blob/main/jira-login9.PNG">
 
-
-### How to Create project
-
-**Step 1:** Click **Projects** dropdown and click **Create project**
-
-<img src="https://github.com/LeemaJosephine18/JiraContent/blob/main/jira-project.PNG">
-
-**Step 2:** Choose **Scrum** project and click **Use template**
-
-<img src="https://github.com/LeemaJosephine18/JiraContent/blob/main/jira-project1.PNG">
-
-<img src="https://github.com/LeemaJosephine18/JiraContent/blob/main/jira-project2.PNG">
-
-**Step 3:** Choose project type i.e "Team managed project"
-
-<img src="https://github.com/LeemaJosephine18/JiraContent/blob/main/jira-project3.PNG">
-
-Project is created. 
-
-<img src="https://github.com/LeemaJosephine18/JiraContent/blob/main/jira-project4.PNG">
