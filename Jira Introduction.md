@@ -48,6 +48,8 @@ Following are some of the most significant uses of JIRA.
 
 <img src="https://github.com/LeemaJosephine18/JiraContent/blob/main/jira-introduction.png">
 
+**The following are the useful aspects provided by the Jira:**
+
 ***Projects:*** It is used to manage the defects very effectively.
 Issue: It is used to track and manage the defects/issues.
 
